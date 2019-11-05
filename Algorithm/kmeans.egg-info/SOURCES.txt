@@ -1,0 +1,6 @@
+kmeans.py
+setup.py
+kmeans.egg-info/PKG-INFO
+kmeans.egg-info/SOURCES.txt
+kmeans.egg-info/dependency_links.txt
+kmeans.egg-info/top_level.txt
